@@ -1,0 +1,73 @@
+.buscar {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    background-color: #fff;
+}
+
+.infoContacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 65%;
+    text-align: left;
+    padding: 0px 60px 0px 180px;
+}
+
+.infoContacto form {
+    display: flex;
+    flex-direction: column;
+}
+
+.infoContacto input {
+    background-color: #fff;
+    color: black;
+}
+
+.infoContacto input,
+.infoContacto  textarea,
+.infoContacto  button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+}
+
+textarea {
+    height: 120px;
+}
+
+.infoContacto  button {
+    background-color: #db570b;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.buscar2 {
+    display: flex;
+    flex-direction: column;
+    width: 35vw;
+    padding: 10px 30px;
+    background-color: #ffffff;
+}
+
+.abajoBuscar {
+    margin-top: 40px;
+    background-color: #35424A;
+    width: 75%;
+    padding: 30px;
+    padding-left: 15px;
+    border-radius: 2px;
+    color: #fff;
+}
+
+.mapa {
+    padding-top: 20px;
+}
+
+.mapa img {
+    width: 80%;
+    padding-bottom: 200px;
+}

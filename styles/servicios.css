@@ -1,0 +1,44 @@
+.parte1{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+
+.parteMedia h2 {
+    margin-left: 5px;
+}
+
+.parteMedia {
+    width: 65vw;
+    padding: 40px 50px 80px 80px;
+    background-color: #fff;
+}
+
+
+.mediaAbajo1,
+.mediaAbajo2,
+.mediaAbajo3 {
+    background-color: #E6E6E6;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid #CCCC;
+    border-radius: 2px;
+}
+
+.parte2{
+    display: flex;
+    flex-direction: column;
+    width: 35vw;
+    padding: 10px 30px;
+    background-color: #ffffff;
+}
+
+.Abajo {
+    margin-top: 40px;
+    background-color: #35424A;
+    width: 75%;
+    padding: 30px;
+    padding-left: 15px;
+    border-radius: 2px;
+    color: #fff;
+}
